@@ -1,0 +1,6 @@
+node_modules
+.genkit
+.firebase
+.a2a-tasks
+.env
+config.json
